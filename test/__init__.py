@@ -7,4 +7,4 @@ __author__       = 'yk.zhang'
 __author_email__ = 'yk.zhang@uec.ac.jp'
 __url__          = 'https://github.com/AceBee007/python_easy2use'
 
-__all__ = ['easy2use_func', ...]
+__all__ = ['easy2use_func',]
