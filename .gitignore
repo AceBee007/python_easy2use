@@ -1,0 +1,4 @@
+# ignore build directory
+/build/
+/dist/
+/easy2use_func.egg-info/
